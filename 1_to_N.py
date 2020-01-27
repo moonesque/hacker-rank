@@ -2,6 +2,7 @@ import sys
 
 
 def one_to_N(n):
+    '''a sample docstring'''
     for i in range(1, n+1):
         print(i, end='')
     print('')
